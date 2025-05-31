@@ -1,4 +1,3 @@
-﻿# JournalApp
  # Journal App Backend (Spring Boot)
 
 A backend service for a journal application built with Spring Boot. This application provides RESTful APIs to manage journal entries, user authentication, role-based access control, email notifications, and JWT-based security. Data is stored in MongoDB Atlas, and the project leverages Lombok for boilerplate reduction.
